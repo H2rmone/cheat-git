@@ -1,7 +1,7 @@
 # Cheat Git
 
 > This project is not a cheatsheet, it is actually a trick.
-
+![image](/cheat-git.png)
 ---
 
 ## Guide
